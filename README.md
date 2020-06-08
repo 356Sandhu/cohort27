@@ -1,2 +1,2 @@
 # cohort27
-add your names friends
+add your names to the ul
